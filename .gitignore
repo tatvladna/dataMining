@@ -1,0 +1,11 @@
+*.sdf
+__pycache__
+*.csv
+*.txt
+*.png
+*.log
+*.pdf
+*.pkl
+*.sh
+*.pdf
+*.pth
